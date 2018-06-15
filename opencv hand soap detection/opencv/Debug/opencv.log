@@ -1,0 +1,20 @@
+﻿  HandDetector.cpp
+HandDetector.cpp(25): warning C4018: '<' : signed/unsigned mismatch
+HandDetector.cpp(36): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+HandDetector.cpp(42): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+HandDetector.cpp(44): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+HandDetector.cpp(50): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+HandDetector.cpp(53): warning C4018: '<' : signed/unsigned mismatch
+HandDetector.cpp(54): warning C4018: '<' : signed/unsigned mismatch
+HandDetector.cpp(51): warning C4101: 'faridx' : unreferenced local variable
+HandDetector.cpp(49): warning C4101: 'avgY' : unreferenced local variable
+HandDetector.cpp(49): warning C4101: 'avgX' : unreferenced local variable
+HandDetector.cpp(112): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+HandDetector.cpp(125): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+HandDetector.cpp(145): warning C4018: '<' : signed/unsigned mismatch
+HandDetector.cpp(149): warning C4018: '<' : signed/unsigned mismatch
+HandDetector.cpp(167): warning C4018: '<' : signed/unsigned mismatch
+HandDetector.cpp(202): warning C4018: '<' : signed/unsigned mismatch
+HandDetector.cpp(204): warning C4018: '<' : signed/unsigned mismatch
+HandDetector.cpp(216): warning C4018: '<' : signed/unsigned mismatch
+HandDetector.cpp(234): error C2065: '_detectorThread' : undeclared identifier
